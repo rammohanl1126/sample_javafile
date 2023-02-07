@@ -1,2 +1,2 @@
-# sample_javafile
+# sample_java_file
 java_file
